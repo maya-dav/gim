@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+button{
+  padding: 15px 30px;
+  background-color: black;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+.one{
+  width: 500px;
+  height: 300px;
+background: linear-gradient(red, yellow, blue);
+}
+.three{
+  width: 669px;
+  height: 400px;
+ background-color: deepskyblue;
+}
+.bg{
+  background-color: aqua;
+}
